@@ -2,10 +2,10 @@ using StockFlow
 using StockFlow: Graph
 
 SUPPRESS_DISPLAY = true
-include("repo1_01_seirh.jl")
-include("repo1_02_seiv.jl")
-include("repo1_03_eiar.jl")
-include("repo1_04_relation.jl")
+include("demo1_01_seirh.jl")
+include("demo1_02_seiv.jl")
+include("demo1_03_eiar.jl")
+include("demo1_04_relation.jl")
 
 # Open three SF diagrams
 open_seirh = Open(seirh, [:S], [:E], [:I], [:R])

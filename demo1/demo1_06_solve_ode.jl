@@ -5,7 +5,7 @@ using OrdinaryDiffEq
 using Plots
 
 SUPPRESS_DISPLAY2 = true
-include("repo1_05_compose_covid19.jl")
+include("demo1_05_compose_covid19.jl")
 
 model = COVID19
 
