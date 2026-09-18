@@ -9,5 +9,3 @@ This repository is an auxiliary workspace for analyzing, testing, and documentin
 ## License
 
 This project is licensed under the [MIT License](./LICENSE).
-
-*Note: See per-folder `LICENSE` files for specific upstream copyright holder attributions.*
