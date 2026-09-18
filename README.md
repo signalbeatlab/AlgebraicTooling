@@ -33,11 +33,9 @@ julia --project=. repo1/repo1_01_seirh.jl
 
 ## Reference
 
-> **Compositional Modeling with Stock and Flow Diagrams**  
-> *Xiaoyan Li, Evan Patterson, Nathaniel D. Osgood* (2021/2022)
-
 * John C. Baez, Xiaoyan Li, Sophie Libkind, Nathaniel D. Osgood, Eric Redekopp, 
-[A Categorical Framework for Modeling with Stock and Flow Diagrams](https://arxiv.org/abs/2211.01290).
+[A Categorical Framework for Modeling with Stock and Flow Diagrams](https://arxiv.org/abs/2211.01290), 
+arXiv:2211.01290 [math.CT] (2022).
 
 ## Julia Setup
 
